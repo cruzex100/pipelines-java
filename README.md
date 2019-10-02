@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/v-thvarg/InternalDevops/_apis/build/status/cruzex100.pipelines-java?branchName=master)](https://dev.azure.com/v-thvarg/InternalDevops/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
